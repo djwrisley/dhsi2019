@@ -11,6 +11,7 @@ The Star Wars Social Network. http://evelinag.com/blog/2015/12-15-star-wars-soci
 **Mapping / Geospatial**
 
 Queering the Map https://www.queeringthemap.com/
+
 LEO Network https://www.leonetwork.org/en/#lat=55.12917&lng=-131.57222&zoom=7
 
 **Stylometry**
