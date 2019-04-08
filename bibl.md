@@ -1,4 +1,4 @@
-###### Additional bibliography of potential interest (under construction)
+#### Additional bibliography of potential interest (under construction)
 
 **Humanities Data / Textual Analysis**
 
