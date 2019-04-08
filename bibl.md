@@ -4,6 +4,8 @@
 
 Ted Underwood. "Seven Ways Humanists Are Using Computers to Understand Text". The Stone and the Shell. 4 June 2015. https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/
 
+Lauren Klein. "Distant Reading Beyond Moretti". Blog. 10 January 2018. http://lklein.com/2018/01/distant-reading-after-moretti/
+
 
 
 **Networks / General Visualization**
