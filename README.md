@@ -1,2 +1,6 @@
 # dhsi2019
 This repository contains materials for the Summer 2019 DHSI course, "Introduction to Computation for Literary Criticism" co-taught by Randa El Khatib (@randaelka) and David Joseph Wrisley (@DJWrisley).
+
+# Course Description
+
+This course demystifies, and offers a survey of, the computational tools and techniques being used for literary criticism. Aimed at novice and DH-curious scholars and practitioners, participants gain familiarity with fundamental concepts and methods so that they can better appreciate the potential of computer-assisted critical techniques. Classes are divided between discussions of key theoretical considerations and practical instruction in a selection of tools. Participants are exposed to macro-analytical techniques like most frequent word analysis, collocation, stylometry, topic modeling, digital mapping, and network analysis, gaining experience with environments like Voyant, R, Carto, Palladio, and Gephi. The course also details best practices relating to the preparation and management of digital corpora. Having completed this course, participants will have a better understanding of how computational methods can be used to produce quantitative data for use in the support of literary criticism. More advanced expertise can subsequently be developed at any one of a number of DHSI offerings dedicated to particular methods.
