@@ -1,4 +1,4 @@
-**Additional bibliography of potential interest**
+#### Additional bibliography of potential interest
 
 Humanities Data / Textual Analysis
 
