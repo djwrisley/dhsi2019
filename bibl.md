@@ -13,4 +13,4 @@ Claire Lemercier. Formal network methods in history: why and how?. Social Networ
 
 **Stylometry** 
 
-
+Mike Kestemont. Function Words in Authorship Attribution From Black Magic to Theory? Proceedings of the 3rd Workshop on Computational Linguistics for Literature (CLfL) @ EACL 2014, pages 59–66, Gothenburg, Sweden, April 27, 2014. https://www.aclweb.org/anthology/W14-0908
