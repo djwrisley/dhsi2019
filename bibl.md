@@ -33,6 +33,11 @@ J. Berenike Herrmann, Karina van Dalen-Oskam, and Christof Schöch. "Revisiting 
 Mike Kestemont. Function Words in Authorship Attribution From Black Magic to Theory? Proceedings of the 3rd Workshop on Computational Linguistics for Literature (CLfL) @ EACL 2014, pages 59–66, Gothenburg, Sweden, April 27, 2014. https://www.aclweb.org/anthology/W14-0908
 
 
+General:
+
+Hill, M. J. and Hengchen, S. Quantifying the impact of dirty OCR on historical text analysis: Eighteenth Century Collections Online as a case study. Digital Scholarship in the Humanities https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqz024/5476122.
+
+
 Datasets: 
 
 .txtlab  https://txtlab.org/data-sets/
