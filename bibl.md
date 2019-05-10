@@ -6,6 +6,9 @@ Ted Underwood. "Seven Ways Humanists Are Using Computers to Understand Text". Th
 
 Lauren Klein. "Distant Reading Beyond Moretti". Blog. 10 January 2018. http://lklein.com/2018/01/distant-reading-after-moretti/
 
+Nan Z. Da, "The Computational Case against Computational Literary Studies," Critical Inquiry 45, no. 3 (Spring 2019): 601-639. https://doi.org/10.1086/702594
+
+Responses to Da: 
 
 
 II  *Networks / General Visualization*
