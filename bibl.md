@@ -9,6 +9,7 @@ Lauren Klein. "Distant Reading Beyond Moretti". Blog. 10 January 2018. http://lk
 Nan Z. Da, "The Computational Case against Computational Literary Studies," Critical Inquiry 45, no. 3 (Spring 2019): 601-639. https://doi.org/10.1086/702594
 
 Responses to Da: https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/
+http://benschmidt.org/post/critical_inquiry/2019-03-18-nan-da-critical-inquiry/
 
 
 II  *Networks / General Visualization*
