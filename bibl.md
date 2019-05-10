@@ -8,15 +8,19 @@ Lauren Klein. "Distant Reading Beyond Moretti". Blog. 10 January 2018. http://lk
 
 Nan Z. Da, "The Computational Case against Computational Literary Studies," Critical Inquiry 45, no. 3 (Spring 2019): 601-639. https://doi.org/10.1086/702594
 
-Responses to Da: 
+Responses to Da: https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/
 
 
 II  *Networks / General Visualization*
 
 Claire Lemercier. Formal network methods in history: why and how?. Social Networks, Political Institutions, and Rural Societies, Brepols, pp.281-310, 2015, 978-2-503-54804-3. <10.1484/M.RURHEEB.4.00198>. <halshs-00521527v2>
+  
+
 
 
 III  *Mapping / Geospatial*
+
+
 
 
 IV  *Stylometry*
