@@ -37,6 +37,9 @@ General:
 
 Hill, M. J. and Hengchen, S. Quantifying the impact of dirty OCR on historical text analysis: Eighteenth Century Collections Online as a case study. Digital Scholarship in the Humanities https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqz024/5476122.
 
+Han, T. and Hickman, A. Our Search for the Best OCR Tool, and What We Found, OpenNews https://source.opennews.org/articles/so-many-ocr-options/ (accessed 11 May 2019).
+
+
 
 Datasets: 
 
