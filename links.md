@@ -12,6 +12,8 @@ The Star Wars Social Network. http://evelinag.com/blog/2015/12-15-star-wars-soci
 
 Character Interaction Networks for Game of Thrones. https://github.com/mathbeveridge/gameofthrones
 
+Lord of the Rings Networks (see tables directory) https://github.com/morethanbooks/projects/tree/master/LotR
+
 **Mapping / Geospatial**
 
 Queering the Map https://www.queeringthemap.com/
