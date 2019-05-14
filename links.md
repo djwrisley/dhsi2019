@@ -10,6 +10,8 @@ Lexos Software for Textual Analysis https://wheatoncollege.edu/academics/special
 
 The Star Wars Social Network. http://evelinag.com/blog/2015/12-15-star-wars-social-network/index.html#.XHy9-VMzZhF 
 
+Character Interaction Networks for Game of Thrones. https://github.com/mathbeveridge/gameofthrones
+
 **Mapping / Geospatial**
 
 Queering the Map https://www.queeringthemap.com/
