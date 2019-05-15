@@ -45,3 +45,5 @@ Datasets:
 
 .txtlab  https://txtlab.org/data-sets/
 
+Student created spatial datasets: http://hdl.handle.net/2451/44256; http://hdl.handle.net/2451/44257; http://hdl.handle.net/2451/44258; http://hdl.handle.net/2451/44259; http://hdl.handle.net/2451/44260; http://hdl.handle.net/2451/44261; http://hdl.handle.net/2451/44262
+
