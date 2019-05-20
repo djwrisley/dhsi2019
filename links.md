@@ -16,6 +16,14 @@ Lord of the Rings Networks (see tables directory) https://github.com/morethanboo
 
 **Mapping / Geospatial**
 
+Mapping modes: 
+
+Painting with Data: https://paintingwithdata.com/
+
+UMap: http://umap.openstreetmap.fr/en/
+
+Mapping projects: 
+
 Queering the Map https://www.queeringthemap.com/
 
 LEO Network https://www.leonetwork.org/en/#lat=55.12917&lng=-131.57222&zoom=7
