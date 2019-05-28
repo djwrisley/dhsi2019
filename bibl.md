@@ -16,7 +16,7 @@ II  *Networks / General Visualization*
 
 Claire Lemercier. Formal network methods in history: why and how?. Social Networks, Political Institutions, and Rural Societies, Brepols, pp.281-310, 2015, 978-2-503-54804-3. <10.1484/M.RURHEEB.4.00198>. <halshs-00521527v2>
   
-
+Katy Börner, Oyvind Eide, Tamara Mchedlidze, Malte Rehbein, Gerik Scheuermann. Network Visualization in the Humanities, Dagsthul Reports 8.11, pp. 139-153. http://drops.dagstuhl.de/opus/volltexte/2019/10359/
 
 
 III  *Mapping / Geospatial*
