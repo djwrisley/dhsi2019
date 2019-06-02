@@ -11,6 +11,8 @@ Nan Z. Da, "The Computational Case against Computational Literary Studies," Crit
 Responses to Da: https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/
 http://benschmidt.org/post/critical_inquiry/2019-03-18-nan-da-critical-inquiry/
 
+Tanya Clement. Text Analysis, Data Mining, and Visualizations in Literary Scholarship. Literary Studies in the Digital Age: An Evolving Anthology. MLA. https://dlsanthology.mla.hcommons.org/text-analysis-data-mining-and-visualizations-in-literary-scholarship/.
+
 
 II  *Networks / General Visualization*
 
