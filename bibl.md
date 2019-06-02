@@ -21,6 +21,7 @@ Katy Börner, Oyvind Eide, Tamara Mchedlidze, Malte Rehbein, Gerik Scheuermann. 
 
 III  *Mapping / Geospatial*
 
+Christopher Donaldson, Ian N. Gregory, Patricia Murrieta-Flores, Mapping ‘Wordsworthshire’: A GIS Study of Literary Tourism in Victorian Lakeland, Journal of Victorian Culture, Volume 20, Issue 3, 1 September 2015, Pages 287–307, https://doi.org/10.1080/13555502.2015.1058089
 
 
 
