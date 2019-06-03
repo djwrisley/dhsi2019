@@ -6,6 +6,8 @@ Ted Underwood. "Seven Ways Humanists Are Using Computers to Understand Text". Th
 
 Geoffrey Rockwell and Stéfan Sinclair. "Thinking-through the History of Computer Assisted Text Analysis" Doing Digital Humanities, 2016, 9-21. 
 
+Douglas Biber. "Corpus linguistics and the Study of Literature: Back to the Future?" Scientific Study of Literature 1.1(2011): 15-23.
+
 Lauren Klein. "Distant Reading Beyond Moretti". Blog. 10 January 2018. http://lklein.com/2018/01/distant-reading-after-moretti/
 
 Nan Z. Da, "The Computational Case against Computational Literary Studies," Critical Inquiry 45, no. 3 (Spring 2019): 601-639. https://doi.org/10.1086/702594
