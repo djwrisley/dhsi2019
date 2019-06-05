@@ -30,4 +30,10 @@ LEO Network https://www.leonetwork.org/en/#lat=55.12917&lng=-131.57222&zoom=7
 
 Finding Tovaangar: https://www.latimes.com/projects/la-me-tongva-map/
 
+The Map of Early Modern Printing: http://atlas.lib.uiowa.edu/
+
+Autorial London: https://cidr-authorial-prod.stanford.edu/
+
+
+
 **Stylometry**
