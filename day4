@@ -1,0 +1,6 @@
+install.packages("stylo")
+library(stylo)
+
+stylo()
+oppose()
+
